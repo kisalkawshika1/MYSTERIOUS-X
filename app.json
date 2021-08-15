@@ -10,7 +10,7 @@
 
     "repository": "https://github.com/kisalkawshika1/MYSTERIOUS-X/",
 
-    "success_url": " by Kisal kawshika wa.me/+94702570900",
+    "success_url": "wa.me/+94702570900",
 
     "stack": "container",
 
@@ -26,7 +26,7 @@
 
         "SUDO": {
 
-            "description": "Leave blank if you don't know how to use it! Sudo mode;)",
+            "description": "Leave blank if you don't know how to use it! Sudo mode",
 
             "required": false
 
@@ -64,7 +64,7 @@
 
         "CP": {
 
-            "description": "Photo caption ;",
+            "description": "Photo caption ",
 
             "required": false
 
@@ -160,7 +160,7 @@
 
         "UNBLOCK_MESSAGE": {
 
-            "description": "Customizable Unblock Message! Use => default, to change back.,
+            "description": "Customizable Unblock Message! Use => default, to change back.",
 
             "required": false,
 
@@ -302,7 +302,7 @@
 
         "NO_ONLINE": {
 
-            "description": "Type true if you don't want to appear online.ගිණුම online වසා තැබීමට",
+            "description": "Type true if you don't want to appear online.",
 
             "required": false,
 
