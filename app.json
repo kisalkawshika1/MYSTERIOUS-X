@@ -1,26 +1,24 @@
 {
 
-    "name": "X-Troid",
+    "name": "MYSTERIOUS-X (Kisal kawshika)",
 
-    "description": "World First sinhala whatsapp bot",
+    "description": "WhatsApp make a different",
 
-    "logo": "https://telegra.ph/file/43e16e51660004dee32d0.jpg",
+    "logo": "https://telegra.ph/file/7934ada4e2f025d95396f.jpg",
 
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai"],
 
-    "repository": "",
+    "repository": "https://github.com/kisalkawshika1/MYSTERIOUS-X/",
 
-    "website":   "lasiya.ml",
-
-    "success_url": "https://t.me/danumabots",
+    "success_url": " by Kisal kawshika wa.me/+94702570900",
 
     "stack": "container",
 
     "env": {
 
-        "A_XTROID_SESSION": {
+        "MYSTERIOUS-X_SESSION": {
 
-            "description": "Type here yours X-Troid Session (after get scanning QR)  QR කේතය scan කර ලබාගත් අදාල කේතය මෙහි යොදන්න.",
+            "description": "Type here yours MYSTERIOUS-X Session (after get scanning QR) ",
 
             "required": true
 
@@ -28,7 +26,7 @@
 
         "SUDO": {
 
-            "description": "Leave blank if you don't know how to use it! Sudo mode;ඔබගේ බොත වෙත තවත් හිමිකරුවකු එක කිරීමට අදාල එම whatsapp අංකය මෙලෙස යොදන්න +94)",
+            "description": "Leave blank if you don't know how to use it! Sudo mode;)",
 
             "required": false
 
@@ -46,7 +44,7 @@
 
         "ANTİ_LİNK": {
 
-            "description": "⚠️Link Blocking System.⚠️ලින්ක් දමන්නන් සමුහයෙන් ඉවත් කිරීමට",
+            "description": "⚠️Link Blocking System.⚠️",
 
             "required": true,
 
@@ -56,7 +54,7 @@
 
         "AUTO_BİO": {
 
-            "description": "Set true for auto date, time in biography.ඔබගේ විස්තරය කාලීනව වෙනස් වීමට (අවශ්‍ය නැතිනම් වෙනස් නොකරන්න )",
+            "description": "Set true for auto date, time in biography.",
 
             "required": true,
 
@@ -66,7 +64,7 @@
 
         "CP": {
 
-            "description": "Photo caption ;ලෝගෝ /පින්තුර පහළ ඇති නම වෙනස් කිරිමට අවශ්‍ය නම් මෙහි ඔබට අවශ්‍ය නම ලියන්න.",
+            "description": "Photo caption ;",
 
             "required": false
 
@@ -74,7 +72,7 @@
 
         "HANDLERS": {
 
-            "description": "Donot change!.වෙනස් නොකරන්න!!!",
+            "description": "Donot change!.",
 
             "required": true,
 
@@ -84,7 +82,7 @@
 
         "NO_LOG": {
 
-            "description": "Set true if you don't want to see error log.නිතර පැමිණෙන දෝෂ පණිවුඩ නැවත තැබීමට මෙය මෙලෙසම තැබිය හැක",
+            "description": "Set true if you don't want to see error log.",
 
             "required": true,
 
@@ -94,7 +92,7 @@
 
         "SEND_READ": {
 
-            "description": "Write true if you want to throw seen.ඔබට පැමිණෙන පණිවිඩ BOTලවා seen කරවිමට",
+            "description": "Write true if you want to throw seen.",
 
             "required": true,
 
@@ -104,7 +102,7 @@
 
         "HEROKU": {
 
-            "description": "DONOT CHANGE; වෙනස් කිරීමෙන් වලකින්න",
+            "description": "DONOT CHANGE; ",
 
             "required": true,
 
@@ -114,7 +112,7 @@
 
         "HEROKU_API_KEY": {
 
-            "description": "Heroku API Key.හෙරොකු API කේතය",
+            "description": "Heroku API Key.",
 
             "required": true
 
@@ -122,7 +120,7 @@
 
         "MUTE_MESSAGE": {
 
-            "description": "Customizable Mute Message! Use => default, to change back. සමුහ වැසීමේ පණිවිඩයට ඔබට කැමති එකක් එකතු කිරීමට",
+            "description": "Customizable Mute Message! Use => default, to change back.",
 
             "required": false,
 
@@ -132,7 +130,7 @@
 
         "BLOCK_CHAT": {
 
-            "description": "Choose in which chat the bot won't work there. (SL=94) (US=1)Ex: 9471xxxx && 9471xxxx-1xxx or 9471xxxx,9471xxx... /සමුහයක් හෝ පුද්ගලයෙකු අවහිර කිරීමට",
+            "description": "Choose in which chat the bot won't work there. (SL=94) (US=1)Ex: 9471xxxx && 9471xxxx-1xxx or 9471xxxx,9471xxx... /",
 
             "required": false,
 
@@ -142,7 +140,7 @@
 
         "UNMUTE_MESSAGE": {
 
-            "description": "Customizable Unmute Message! Use => default, to change back.සමුහ නැවත විවුර්ත කරීමේ පණිවිඩය ඔබට අවශ්‍ය ලෙස සකසා මෙහි දමන්න",
+            "description": "Customizable Unmute Message! Use => default, to change back.",
 
             "required": false,
 
@@ -152,7 +150,7 @@
 
         "BLOCK_MESSAGE": {
 
-            "description": "Customizable Block Message! Use => default, to change back. පුද්ගලයෙකු අවහිර කිරීමේ පණිවිඩය",
+            "description": "Customizable Block Message! Use => default, to change back. ",
 
             "required": false,
 
@@ -162,7 +160,7 @@
 
         "UNBLOCK_MESSAGE": {
 
-            "description": "Customizable Unblock Message! Use => default, to change back.අවහිර කල අයෙකු නැවත කතා කිරීමට අවස්ථාව දීමේ පණිවිඩය",
+            "description": "Customizable Unblock Message! Use => default, to change back.,
 
             "required": false,
 
@@ -172,7 +170,7 @@
 
         "WORK_TYPE": {
 
-            "description": "Xtroid bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot. ඔබ සාදන්නේ පුද්ගලික bot එකක් නම් “private” ලෙසත් , පොදු botඑකක් නම් “public” ලෙසත් ලබාදෙන්න",
+            "description": "Xtroid bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot. ",
 
             "required": true,
 
@@ -182,7 +180,7 @@
 
         "HEROKU_APP_NAME": {
 
-            "description": "Heroku APP Name.ඉහල පළමුවෙන්ම පිරවූ APP නාමය",
+            "description": "Heroku App Name",
 
             "required": true
 
@@ -190,7 +188,7 @@
 
         "DEBUG": {
 
-            "description": "NO need to change, වෙනස් කිරීමට අවශ්‍ය නැත",
+            "description": "NO need to change",
 
             "required": true,
 
@@ -200,7 +198,7 @@
 
         "REMOVE_BG_API_KEY": {
 
-            "description": "Get API from https://remove.bg මෙම ලින්කුවෙන් ලබාගන්න https://remove.bg ",
+            "description": "Get API from https://remove.bg  ",
 
             "required": false
 
@@ -208,7 +206,7 @@
 
         "GIF_WEL": {
 
-            "description": "set custom welcom gif past direct lnk of mp4 or gif ⚠️must not bigger than 2MB ( can cange after )/ලබාදී ඇති පිළිගැනීමේ පණිවිඩයට ඔබට අවශ්‍ය වීඩියෝවක් එක කිරීමට වීඩියෝවක ඩිරෙක් ලින්ක් එකක් මෙහි යොදන්න ⚠️2MB වලට අඩු",
+            "description": "set custom welcom gif past direct lnk of mp4 or gif ⚠️must not bigger than 2MB ( can cange after )",
 
             "required": false
 
@@ -216,7 +214,7 @@
 
         "GIF_BYE": {
 
-            "description": "set custom good bye gif past direct lnk of mp4 or gif ⚠️must not bigger than 2MB ( can cange after )/ලබාදී ඇති සමුදීමේ පණිවිඩයට ඔබට අවශ්‍ය වීඩියෝවක් එක කිරීමට වීඩියෝවක ඩිරෙක් ලින්ක් එකක් මෙහි යොදන්න ⚠️2MB වලට අඩු",
+            "description": "set custom good bye gif past direct lnk of mp4 or gif ⚠️must not bigger than 2MB ( can cange after )",
 
             "required": false
 
@@ -224,17 +222,17 @@
 
         "ALIVE_MESSAGE": {
 
-            "description": "Customizable Alive Message! Use => default, to change back./ALIVE පණිවිඩය ඔබට අවශ්‍ය පරිදි වෙනස් කරගැනීමට",
+            "description": "Customizable Alive Message! Use => default, to change back./ALIVE ",
 
             "required": false,
 
-            "value": "🧧 X-Troid 🧧\nName: X-Troid\nYoutube : youtu.be/mDnJ7q3S3eY\nInfo : type .bot"
+            "value": "💫 MYSTERIOUS-X 💫\n Developer Kisal Kawshika /nCredits Dev team: type .bot"
 
         },
 
         "BAN_MESSAGE": {
 
-            "description": "Customizable Ban Message! Use => default, to change back.යමෙකු සමුහයෙන් ඉවත් කරීමේ පණිවිඩය වෙනස් කිරීමට",
+            "description": "Customizable Ban Message! Use => default, to change back.",
 
             "required": false,
 
@@ -244,7 +242,7 @@
 
         "ADD_MESSAGE": {
 
-            "description": "Customizable Add Message! Use => default, to change back.ඔබ විසින් යමෙකුව සමුහයට එකතුකිරිමේදී ලැබෙන පණිවිඩය. ",
+            "description": "Customizable Add Message! Use => default, to change back. ",
 
             "required": false,
 
@@ -254,7 +252,7 @@
 
         "KICKME_MESSAGE": {
 
-            "description": "Customizable Kickme Message! Use => default, to change back.ඔබ සමුහයෙන් ඉවත් වීමේදී තබා එන අවසන් පණිවිඩය",
+            "description": "Customizable Kickme Message! Use => default, to change back.",
 
             "required": false,
 
@@ -264,7 +262,7 @@
 
         "PROMOTE_MESSAGE": {
 
-            "description": "Customizable Promote Message! Use => default, to change back.සමුහයේ යමෙකුගේ තනතුරු උසස් කිරීමේ පණිවිඩය",
+            "description": "Customizable Promote Message! Use => default, to change back.",
 
             "required": false,
 
@@ -274,7 +272,7 @@
 
         "DEMOTE_MESSAGE": {
 
-            "description": "Customizable Demote Message! Use => default, to change back.තනතුරු පත්කිරීමේ පණිවිඩය",
+            "description": "Customizable Demote Message! Use => default, to change back.",
 
             "required": false,
 
@@ -284,7 +282,7 @@
 
         "AFK_MESSAGE": {
 
-            "description": "Customizable AFK Message! Use => default, to change back.ඔබ දුරකතනයෙන් ඉවත්වන විට තබා යන පණිවිඩය",
+            "description": "Customizable AFK Message! Use => default, to change back.",
 
             "required": false,
 
@@ -298,7 +296,7 @@
 
             "required": true,
 
-            "value": "https://telegra.ph/file/2bb85d7b80b9ad96bcb96.jpg"
+            "value": "https://telegra.ph/file/7934ada4e2f025d95396f.jpg"
 
         },
 
