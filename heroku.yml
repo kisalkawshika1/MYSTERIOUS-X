@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /Xproject/Dockerfile
+      worker: ect/Dockerfile
 run:
    worker: npm start
