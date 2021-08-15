@@ -3,7 +3,7 @@
 
 const chalk = require('chalk');
 const {WAConnection, MessageOptions, MessageType} = require('@adiwajshing/baileys');
-const {StringSession} = require('./Xproject/');
+const {StringSession} = require('./MYSTERIOUS-X/');
 const fs = require('fs');
 
 async function LasiXtroid () {
